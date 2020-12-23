@@ -41,4 +41,4 @@ fitted_model.plot_seasonal_structures()<br><br>
 Package dependencies are found in the requirements.txt.
 
 ## Read the Paper
-A detailed paper describing the method and mathematics can be found at https://github.com/kmana1995/DE4S_Model/blob/master/Paper%20-%20Forecasting%20With%20Memorized%20Seasonal%20Structures.pdf
+A detailed paper describing the method and mathematics can be found at https://github.com/MBAn-Candidate/DE4S_Model/blob/main/MBAn%20Forecasting%20With%20Memorized%20Seasonal%20Structures.pdf
